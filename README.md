@@ -12,7 +12,7 @@ cd C:\Program Files\MongoDB\Server\3.0\bin
 
 mongodb
 
-Check whether the service is started
+Check whether the service is started by entering 
 http://localhost:27017/
 
 Finally Run the node js program
